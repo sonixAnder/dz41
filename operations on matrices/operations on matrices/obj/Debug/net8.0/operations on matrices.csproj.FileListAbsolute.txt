@@ -1,0 +1,14 @@
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\bin\Debug\net8.0\operations on matrices.exe
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\bin\Debug\net8.0\operations on matrices.deps.json
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\bin\Debug\net8.0\operations on matrices.runtimeconfig.json
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\bin\Debug\net8.0\operations on matrices.dll
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\bin\Debug\net8.0\operations on matrices.pdb
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\operations on matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\operations on matrices.AssemblyInfoInputs.cache
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\operations on matrices.AssemblyInfo.cs
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\operations on matrices.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\operations on matrices.dll
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\refint\operations on matrices.dll
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\operations on matrices.pdb
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\operations on matrices.genruntimeconfig.cache
+C:\Users\SSoni\Desktop\operations on matrices\operations on matrices\obj\Debug\net8.0\ref\operations on matrices.dll
