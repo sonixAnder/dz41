@@ -1,0 +1,14 @@
+C:\Users\SSoni\source\repos\censorship\censorship\bin\Debug\net8.0\censorship.exe
+C:\Users\SSoni\source\repos\censorship\censorship\bin\Debug\net8.0\censorship.deps.json
+C:\Users\SSoni\source\repos\censorship\censorship\bin\Debug\net8.0\censorship.runtimeconfig.json
+C:\Users\SSoni\source\repos\censorship\censorship\bin\Debug\net8.0\censorship.dll
+C:\Users\SSoni\source\repos\censorship\censorship\bin\Debug\net8.0\censorship.pdb
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\censorship.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\censorship.AssemblyInfoInputs.cache
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\censorship.AssemblyInfo.cs
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\censorship.csproj.CoreCompileInputs.cache
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\censorship.dll
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\refint\censorship.dll
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\censorship.pdb
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\censorship.genruntimeconfig.cache
+C:\Users\SSoni\source\repos\censorship\censorship\obj\Debug\net8.0\ref\censorship.dll
